@@ -3,17 +3,17 @@
 </p>
 
 <table align="center"><tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
   
 ###  我的信息
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
   
 ### 我的分享 
   
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="34%">
   
 ### 开源工程
 
